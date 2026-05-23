@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=2000&size=30&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Support+Triage+Agent)](https://git.io/typing-svg)
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Support%20Triage%20Agent&reversal=false
 
 <img width="125" height="28" alt="image" src="https://github.com/user-attachments/assets/6a6d1a61-d4f5-411f-a82a-a3db8dc524ac" />
 
