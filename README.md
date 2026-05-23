@@ -123,8 +123,11 @@ OPENROUTER_API_KEY=your_openrouter_key
 OLLAMA_BASE_URL=http://localhost:11434
 OLLAMA_MODEL=gemma3:1b
 ```
+
 ###Workflow
 <img width="1820" height="1099" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/7509b1ea-0274-460f-8903-87843dc84364" />
+
+<img width="1820" height="1099" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/1458a93a-dd12-42db-b0fa-90f981bf7276" />
 
 ### Customization
 
