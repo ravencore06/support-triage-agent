@@ -24,11 +24,7 @@ This agent analyzes incoming support tickets and performs intelligent triage by:
 - **Safety**: Preventing hallucinations through corpus-grounding and explicit rules
 
 ## Key Features
-
-✨ **Tri-Mode LLM Support**
-- Primary: OpenRouter (Claude 3.5 Haiku)
-- Secondary: Google Gemini 2.0 Flash
-- Tertiary: Local Ollama (offline fallback)
+<img width="1364" height="684" alt="image" src="https://github.com/user-attachments/assets/a1c526b3-9df1-4076-964e-5635e9cffc8f" />
 
 ✨ **Intelligent Escalation**
 - Automatically escalates fraud, payment disputes, and security issues
