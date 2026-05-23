@@ -27,9 +27,9 @@ This agent analyzes incoming support tickets and performs intelligent triage by:
 
 ✨ Tri-Mode LLM Support
 
-Primary: OpenRouter (Claude 3.5 Haiku)
-Secondary: Google Gemini 2.0 Flash
-Tertiary: Local Ollama (offline fallback)
+-Primary: OpenRouter (Claude 3.5 Haiku)
+-Secondary: Google Gemini 2.0 Flash
+-Tertiary: Local Ollama (offline fallback)
 
 ✨ **Intelligent Escalation**
 - Automatically escalates fraud, payment disputes, and security issues
