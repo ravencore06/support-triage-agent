@@ -25,7 +25,7 @@ This agent analyzes incoming support tickets and performs intelligent triage by:
 
 ## Key Features
 
-✨ Tri-Mode LLM Support
+✨ **Tri-Mode LLM Support**
 
 -Primary: OpenRouter (Claude 3.5 Haiku)
 -Secondary: Google Gemini 2.0 Flash
