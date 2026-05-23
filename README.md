@@ -24,6 +24,7 @@ This agent analyzes incoming support tickets and performs intelligent triage by:
 - **Safety**: Preventing hallucinations through corpus-grounding and explicit rules
 
 ## Key Features
+
 <img width="1364" height="684" alt="image" src="https://github.com/user-attachments/assets/a1c526b3-9df1-4076-964e-5635e9cffc8f" />
 
 ✨ **Intelligent Escalation**
