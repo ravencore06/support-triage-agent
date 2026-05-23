@@ -1,4 +1,5 @@
-# Support Triage Agent
+https://readme-typing-svg.herokuapp.com/demo/?weight=500&size=30&center=true&lines=Support+Triage+Agent
+
 <img width="125" height="28" alt="image" src="https://github.com/user-attachments/assets/6a6d1a61-d4f5-411f-a82a-a3db8dc524ac" />
 
 [![Python](https://img.shields.io/badge/python-3.13-blue?logo=python&logoColor=white)](https://www.python.org/)
