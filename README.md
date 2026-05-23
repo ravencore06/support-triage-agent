@@ -1,4 +1,6 @@
 # Support Triage Agent
+<img width="125" height="28" alt="image" src="https://github.com/user-attachments/assets/6a6d1a61-d4f5-411f-a82a-a3db8dc524ac" />
+
 
 An intelligent AI-powered support ticket triage system that automatically routes and responds to customer support tickets using Retrieval-Augmented Generation (RAG) and Large Language Models.
 
