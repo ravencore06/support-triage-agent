@@ -1,5 +1,12 @@
 # Support Triage Agent
 <img width="125" height="28" alt="image" src="https://github.com/user-attachments/assets/6a6d1a61-d4f5-411f-a82a-a3db8dc524ac" />
+[![Python](https://img.shields.io/badge/python-3.13-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![LLM](https://img.shields.io/badge/LLM-Gemini%202.0%20Flash-blue?logo=google&logoColor=white)](https://ai.google.dev/)
+[![Architecture](https://img.shields.io/badge/Architecture-RAG-orange)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
+[![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen)](https://github.com/ravencore06/support-triage-agent)
+[![Mode](https://img.shields.io/badge/Mode-Tri--Mode%20Fallback-magenta)](https://github.com/ravencore06/support-triage-agent)
+[![Accuracy](https://img.shields.io/badge/Accuracy-85--90%25-blue)](https://github.com/ravencore06/support-triage-agent)
 
 
 An intelligent AI-powered support ticket triage system that automatically routes and responds to customer support tickets using Retrieval-Augmented Generation (RAG) and Large Language Models.
