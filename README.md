@@ -236,7 +236,7 @@ MIT License - See LICENSE file for details
 
 ## Author
 
-Built during **HackerRank Orchestrate Hackathon (May 2026)**
+Built during **Srinidhi Sadhanala**
 
 ## Acknowledgments
 
